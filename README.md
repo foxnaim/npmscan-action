@@ -1,3 +1,8 @@
+> **foxnaim** · GitHub Action для проверки рискованных изменений npm-зависимостей перед слиянием
+>
+> Готовая основа под клиентский проект. Стек: TypeScript.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 <p align="center">
   <img src="https://npmscan.com/npmscan.icon.darkmode.jpg" width="120" alt="npmscan logo">
 </p>
